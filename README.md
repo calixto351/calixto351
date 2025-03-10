@@ -1,5 +1,23 @@
-- 👋 Hi, I’m @calixto351
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning libraries in python. Numpy,Pandas,Flask,TensorFlow
-- 📫 How to reach me joaoaugustof.l.c@gmail.com
+# 🥷🏾 João Calixto
+
+**Data Science**
+
+Olá me chamo João Calixto tudo bem? tenho 22 anos e sou natural de goiás,
+curso Analise e Desenvolvimento de Sistemas e tenho pretensão de me formar em 2026 no momento meus principais focos e adentrar dentro da área de Data Science e machine learning.
+
+### Linguagens e ferramentas
+
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+
+
+
+#
+
+### Em desenvolvimento
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+
 
