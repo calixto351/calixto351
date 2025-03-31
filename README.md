@@ -3,7 +3,7 @@
 **Data Science**
 
 Olá me chamo João Calixto tudo bem? tenho 22 anos e sou natural de goiás,
-curso Analise e Desenvolvimento de Sistemas e tenho pretensão de me formar em 2026 no momento meus principais focos e adentrar dentro da área de Data Science e machine learning.
+curso Analise e Desenvolvimento de Sistemas e tenho pretensão de me formar em 2026 no momento meus principais focos é adentrar dentro da área de Data Science e machine learning.
 
 ### Linguagens e ferramentas
 
